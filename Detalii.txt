@@ -1,0 +1,4 @@
+10/23/2018 - Incarcat LCD driver
+
+Testare in Proteus: https://ibb.co/ma4ZmV
+Testare pe Atmega328: https://ibb.co/dJjH6V
