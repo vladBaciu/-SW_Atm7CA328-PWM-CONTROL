@@ -4,5 +4,8 @@ Testare in Proteus: https://ibb.co/ma4ZmV
 Testare pe Atmega328: https://ibb.co/dJjH6V
 
 
-10/28/2018 - Incarcat Comunicatie UART pentru Debug.
+10/28/2018 - Incarcat Comunicatie UART pentru Debug, driver ADC si PWM
+Testare: 
 
+https://ibb.co/hJrC1V
+https://ibb.co/ngQVMV
